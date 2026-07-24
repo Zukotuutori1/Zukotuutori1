@@ -14,7 +14,7 @@ Welcome to my GitHub. Feel free to contact me for collaboration, technical discu
 
 <p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,angular,py,java,cs" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,angular,py,java,cs,unity" />
   </a>
 </p>
 
