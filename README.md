@@ -1,6 +1,6 @@
 ## 👋 Hi, I'm Zukotuutori  
 
-Welcome to my GitHub. Im a young IT-specialist who's always looking to explore and learn something new.
+Welcome to my GitHub. Im a young IT-specialist from Germany who's always looking to explore and learn something new.
 Feel free to contact me for collaboration, questions about my projects or anything similar on [my website](https://zukotuutori.dev) . 
 
 
