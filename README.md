@@ -1,6 +1,9 @@
 ## 👋 Hi, I'm Zukotuutori  
 
-Welcome to my GitHub. Feel free to contact me for collaboration, technical discussions, or some other coding stuff. Always open to learn something new.
+Welcome to my GitHub. Im a young IT-specialist who's always looking to explore and learn something new.
+Feel free to contact me for collaboration, questions about my projects or anything similar on [my website](https://zukotuutori.dev) . 
+
+
 
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/F6V023PNQV)
 
@@ -10,7 +13,7 @@ Welcome to my GitHub. Feel free to contact me for collaboration, technical discu
   <img alt="snake animation" src="https://raw.githubusercontent.com/Zukotuutori1/Zukotuutori1/output/github-snake.svg" />
 </picture>
 
-## 💻 Technologies
+## Technologies
 
 <p>
   <a href="https://skillicons.dev">
@@ -18,7 +21,7 @@ Welcome to my GitHub. Feel free to contact me for collaboration, technical discu
   </a>
 </p>
 
-## 💻 Frameworks, tools & engines
+## Frameworks, engines & tools
 <p>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=angular,electron,unity,docker,postgres,obsidian" />
