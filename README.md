@@ -10,11 +10,19 @@ Welcome to my GitHub. Feel free to contact me for collaboration, technical discu
   <img alt="snake animation" src="https://raw.githubusercontent.com/Zukotuutori1/Zukotuutori1/output/github-snake.svg" />
 </picture>
 
-## 💻 Current technologies used in my projects
+## 💻 Technologies
 
 <p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,angular,py,java,cs,unity" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,ts,py,java,kotlin,cs" />
   </a>
 </p>
+
+## 💻 Frameworks, tools & engines
+<p>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=angular,electron,unity,docker,postgres,obsidian" />
+  </a>
+</p>
+
 
