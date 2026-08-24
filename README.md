@@ -13,7 +13,7 @@ Feel free to contact me for collaboration, questions about my projects or anythi
   <img alt="snake animation" src="https://raw.githubusercontent.com/Zukotuutori1/Zukotuutori1/output/github-snake.svg" />
 </picture>
 
-## Technologies
+## Languages
 
 <p>
   <a href="https://skillicons.dev">
